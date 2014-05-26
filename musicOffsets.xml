@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<music gameName="New Super Mario Bros. Wii">
+
+  <!--Levels-->
+  <track>
+    <title>Athletic - Fast</title>
+    <filename>athletic_fast_lr.n.32.brstm</filename>
+    <offset>04A91D</offset>
+  </track>
+  <track>
+    <title>Athletic</title>
+    <filename>athletic_lr.n.32.brstm</filename>
+    <offset>04A8DD</offset>
+  </track>
+  <track>
+    <title>Airship - Room Before Boss</title>
+    <filename>BGM_HIKOUSEN_ROUKA.32.brstm</filename>
+    <offset>04BC6D</offset>
+  </track>
+  <track>
+    <title>Airship - Room Before Boss - Fast</title>
+    <filename>BGM_HIKOUSEN_ROUKA_fast.32.brstm</filename>
+    <offset>04BCB1</offset>
+  </track>
+  <track>
+    <title>Airship</title>
+    <filename>BGM_HIKOUSEN.32.brstm</filename>
+    <offset>04B039</offset>
+  </track>
+  <track>
+    <title>Airship - Fast</title>
+    <filename>BGM_HIKOUSEN_fast.32.brstm</filename>
+    <offset>04B075</offset>
+  </track>
+  <track>
+    <title>Ghost House</title>
+    <filename>BGM_OBAKE.32.brstm</filename>
+    <offset>04B1D1</offset>
+  </track>
+  <track>
+    <title>Ghost House - Fast</title>
+    <filename>BGM_OBAKE_fast.32.brstm</filename>
+    <offset>04B20D</offset>
+  </track>
+  <track>
+    <title>Castle</title>
+    <filename>BGM_SIRO.32.brstm</filename>
+    <offset>04B2CD</offset>
+  </track>
+  <track>
+    <title>Castle - Fast</title>
+    <filename>BGM_SIRO_fast.32.brstm</filename>
+    <offset>04B305</offset>
+  </track>
+  <track>
+    <title>Underwater</title>
+    <filename>BGM_SUICHU.32.brstm</filename>
+    <offset>04B795</offset>
+  </track>
+  <track>
+    <title>Underwater - Fast</title>
+    <filename>BGM_SUICHU_fast.32.brstm</filename>
+    <offset>04B7D1</offset>
+  </track>
+  <track>
+    <title>Lava</title>
+    <filename>kazan_lr.n.32.brstm</filename>
+    <offset>04ADF5</offset>
+  </track>
+  <track>
+    <title>Lava - Fast</title>
+    <filename>kazan_fast_lr.n.32.brstm</filename>
+    <offset>04AE31</offset>
+  </track>
+  <track>
+    <title>Hazy Maze Cave - Remix</title>
+    <filename>kazan_tika_lr.ry.32.brstm</filename>
+    <offset>04AE71</offset>
+  </track>
+  <track>
+    <title>Hazy Maze Cave - Remix - Fast</title>
+    <filename>kazan_tika_fast_lr.ry.32.brstm</filename>
+    <offset>04AEB1</offset>
+  </track>
+  <track>
+    <title>Jungle</title>
+    <filename>mori_lr.ry.32.brstm</filename>
+    <offset>04B89D</offset>
+  </track>
+  <track>
+    <title>Jungle - Fast</title>
+    <filename>mori_fast_lr.ry.32.brstm</filename>
+    <offset>04B8D9</offset>
+  </track>
+  <track>
+    <title>Ground</title>
+    <filename>STRM_BGM_CHIJOU.brstm</filename>
+    <offset>04A821</offset>
+  </track>
+  <track>
+    <title>Ground - Fast</title>
+    <filename>STRM_BGM_CHIJOU_FAST.brstm</filename>
+    <offset>04A899</offset>
+  </track>
+  <track>
+    <title>Underground</title>
+    <filename>STRM_BGM_CHIKA.brstm</filename>
+    <offset>04A85D</offset>
+  </track>
+  <track>
+    <title>Underground - Fast</title>
+    <filename>STRM_BGM_CHIKA_FAST.brstm</filename>
+    <offset>04A765</offset>
+  </track>
+  <track>
+    <title>Desert</title>
+    <filename>STRM_BGM_SABAKU.brstm</filename>
+    <offset>04B24D</offset>
+  </track>
+  <track>
+    <title>Desert - Fast</title>
+    <filename>STRM_BGM_SABAKU_FAST.brstm</filename>
+    <offset>04B289</offset>
+  </track>
+  <track>
+    <title>Bridge </title>
+    <filename>STRM_BGM_SANBASHI.brstm</filename>
+    <offset>04B919</offset>
+  </track>
+  <track>
+    <title>Bridge - Fast</title>
+    <filename>STRM_BGM_SANBASHI_FAST.brstm</filename>
+    <offset>04B959</offset>
+  </track>
+  <track>
+    <title>Snow</title>
+    <filename>STRM_BGM_YUKI.brstm</filename>
+    <offset>04A7A5</offset>
+  </track>
+  <track>
+    <title>Snow - Fast</title>
+    <filename>STRM_BGM_YUKI_FAST.brstm</filename>
+    <offset>04A7E1</offset>
+  </track>
+  <track>
+    <title>Fortress</title>
+    <filename>toride_lr.n.32.brstm</filename>
+    <offset>04AEF9</offset>
+  </track>
+  <track>
+    <title>Fortress - Fast</title>
+    <filename>toride_fast_lr.n.32.brstm</filename>
+    <offset>04AF35</offset>
+  </track>
+  <track>
+    <title>Toad House</title>
+    <filename>STRM_BGM_BONUS.brstm</filename>
+    <offset>04BAE9</offset>
+  </track>
+  <track>
+    <title>Toad House - Fast</title>
+    <filename>STRM_BGM_BONUS_FAST.brstm</filename>
+    <offset>04BB25</offset>
+  </track>
+  <track>
+    <title>Toad House: Minigame</title>
+    <filename>STRM_BGM_MINIGAME.brstm</filename>
+    <offset>04B0FD</offset>
+  </track>
+  <track>
+    <title>World 1</title>
+    <filename>select_map01_nohara_lr.n.32.brstm</filename>
+    <offset>04A71D</offset>
+  </track>
+  <track>
+    <title>World 2</title>
+    <filename>select_map02_sabaku.ry.32.brstm</filename>
+    <offset>04A961</offset>
+  </track>
+  <track>
+    <title>World 3</title>
+    <filename>select_map03_yuki.ry.32.brstm</filename>
+    <offset>04A9A9</offset>
+  </track>
+  <track>
+    <title>World 4</title>
+    <filename>select_map04_umii.ry.32.brstm</filename>
+    <offset>04A9ED</offset>
+  </track>
+  <track>
+    <title>World 5 Overworld</title>
+    <filename>BGM_MAP_W5.32.brstm</filename>
+    <offset>04AA31</offset>
+  </track>
+  <track>
+    <title>World 6</title>
+    <filename>select_map06_cliff_lr.n.32.brstm</filename>
+    <offset>04AA6D</offset>
+  </track>
+  <track>
+    <title>World 7 Overworld</title>
+    <filename>BGM_MAP_W7.32.brstm</filename>
+    <offset>04AAB5</offset>
+  </track>
+  <track>
+    <title>World 8 Overworld</title>
+    <filename>BGM_MAP_W8.32.brstm</filename>
+    <offset>04AAF1</offset>
+  </track>
+  <track>
+    <title>World 9</title>
+    <filename>select_map09_rainbow_lr.n.32.brstm</filename>
+    <offset>04AB2D</offset>
+  </track>
+  <track>
+    <title>Course Clear</title>
+    <filename>couse_clear_lr.n.32.brstm</filename>
+    <offset>04AD6D</offset>
+  </track>
+  <track>
+    <title>Course Clear - Retro</title>
+    <filename>couse_clear_zoro_lr.n.32.brstm</filename>
+    <offset>04ADAD</offset>
+  </track>
+  <track>
+    <title>Peach's Castle</title>
+    <filename>peach_castle_lr.n.32.brstm</filename>
+    <offset>04BAA5</offset>
+  </track>
+  <!--Fights-->
+  <track>
+    <title>Fight: Castle Koopaling</title>
+    <filename>shiro_boss_lr.n.32.brstm</filename>
+    <offset>04AF75</offset>
+  </track>
+  <track>
+    <title>Fight: Castle Koopaling - Fast</title>
+    <filename>shiro_boss_fast_lr.n.32.brstm</filename>
+    <offset>04AFB5</offset>
+  </track>
+  <track>
+    <title>Enemy: Overworld Battle</title>
+    <filename>BGM_MG_BTL.32.brstm</filename>
+    <offset>04B99D</offset>
+  </track>
+  <track>
+    <title>Enemy: Battle Win</title>
+    <filename>BGM_MG_BTL_FANFARE.32.brstm</filename>
+    <offset>04BBE9</offset>
+  </track>
+  <track>
+    <title>Fight: Koopaling Fortress - Battle - Win</title>
+    <filename>BGM_SIRO_CLEAR.32.brstm</filename>
+    <offset>04AFF9</offset>
+  </track>
+  <track>
+    <title>Fight: Koopaling Battle</title>
+    <filename>BGM_TORIDE_BOSS.32.brstm</filename>
+    <offset>04B3C1</offset>
+  </track>
+  <track>
+    <title>Fight: Koopaling Battle - Fast</title>
+    <filename>BGM_TORIDE_BOSS_fast.32.brstm</filename>
+    <offset>04B401</offset>
+  </track>
+  <track>
+    <title>Fight - Koopaling Castle - Battle - Win</title>
+    <filename>BGM_TORIDE_CLEAR.32.brstm</filename>
+    <offset>04B755</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser</title>
+    <filename>BGM_LAST_BOSS1_lr.ry.32.brstm</filename>
+    <offset>04B52D</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser - Fast</title>
+    <filename>BGM_LAST_BOSS1_fast_lr.ry.32.brstm</filename>
+    <offset>04B571</offset>
+  </track>
+  <track>
+    <title>Room Before Bowser</title>
+    <filename>BGM_LAST_CASTLE_ROUKA_lr.ry.32.brstm</filename>
+    <offset>04B491</offset>
+  </track>
+  <track>
+    <title>Room Before Bowser - Fast</title>
+    <filename>BGM_LAST_CASTLE_ROUKA_FAST_lr.ry.32.brstm</filename>
+    <offset>04B4DD</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser Jr</title>
+    <filename>BGM_HIKOUSEN_BOSS.32.brstm</filename>
+    <offset>04B811</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser Jr - Fast</title>
+    <filename>BGM_HIKOUSEN_BOSS_fast.32.brstm</filename>
+    <offset>04B855</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser Jr. - Clear</title>
+    <filename>BGM_HIKOUSEN_CLEAR.32.brstm</filename>
+    <offset>04B0B9</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser - Final</title>
+    <filename>STRM_BGM_LAST_BOSS2.brstm</filename>
+    <offset>04B641</offset>
+  </track>
+  <track>
+    <title>Fight: Bowser - Final - Fast</title>
+    <filename>STRM_BGM_LAST_BOSS2_FAST.brstm</filename>
+    <offset>04B681</offset>
+  </track>
+  <track>
+    <title>Final Boss Win</title>
+    <filename>LastBoss_fanfare_lr.ry.32.brstm</filename>
+    <offset>04B6C9</offset>
+  </track>
+  <track>
+    <title>Final Castle Appears</title>
+    <filename>BGM_lastcasle_appear_lr.ry.32.brstm</filename>
+    <offset>04B445</offset>
+  </track>
+  <!--Other-->
+  <track>
+    <title>Title Screen</title>
+    <filename>title_lr.ry.32.brstm</filename>
+    <offset>04AB79</offset>
+  </track>
+  <track>
+    <title>First Menu</title>
+    <filename>STRM_BGM_MENU.brstm</filename>
+    <offset>04ABB5</offset>
+  </track>
+  <track>
+    <title>5 Star Completion Jingle</title>
+    <filename>5stars_cmplt_lr.n.32.brstm</filename>
+    <offset>04BA61</offset>
+  </track>
+  <track>
+    <title>All Star Coins in World</title>
+    <filename>BGM_STARCOIN_CMP1.32.brstm</filename>
+    <offset>04BA1D</offset>
+  </track>
+  <track>
+    <title>All Star Coin Completion</title>
+    <filename>BGM_STARCOIN_CMP_ALL.32.brstm</filename>
+    <offset>04B9D9</offset>
+  </track>
+  <track>
+    <title>Enter a Bubble Sound</title>
+    <filename>all_bubble_lr.n.32.brstm</filename>
+    <offset>04AC2D</offset>
+  </track>
+  <track>
+    <title>Good Card Match</title>
+    <filename>BGM_MINIGAME_FANFARE_GOOD.32.brstm</filename>
+    <offset>04B185</offset>
+  </track>
+  <track>
+    <title>Bad Card Match</title>
+    <filename>BGM_MINIGAME_FANFARE_BAD.32.brstm</filename>
+    <offset>04B13D</offset>
+  </track>
+  <track>
+    <title>Fail: Challenge</title>
+    <filename>multi_fail_lr.n.32.brstm</filename>
+    <offset>04BB65</offset>
+  </track>
+  <track>
+    <title>Intro</title>
+    <filename>DEMO_op_lr.ry.32.brstm</filename>
+    <offset>04BC2D</offset>
+  </track>
+  <track>
+    <title>Ending</title>
+    <filename>DEMO_end_lr.ry.32.brstm</filename>
+    <offset>04AC6D</offset>
+  </track>
+  <track>
+    <title>Death</title>
+    <filename>down_lr.n.32.brstm</filename>
+    <offset>04ACF1</offset>
+  </track>
+  <track>
+    <title>Game Over</title>
+    <filename>game_over_lr.n.32.brstm</filename>
+    <offset>04AD2D</offset>
+  </track>
+  <track>
+    <title>Credits Roll</title>
+    <filename>staffcredit_lr.ry.32.brstm</filename>
+    <offset>04ACAD</offset>
+  </track>
+  <track>
+    <title>Starman</title>
+    <filename>STRM_BGM_STAR.brstm</filename>
+    <offset>04B345</offset>
+  </track>
+  <track>
+    <title>Starman - Fast</title>
+    <filename>STRM_BGM_STAR_FAST.brstm</filename>
+    <offset>04B381</offset>
+  </track>
+  <track>
+    <title>P Switch</title>
+    <filename>switch_lr.n.32.brstm</filename>
+    <offset>04ABF1</offset>
+  </track>
+  <track>
+    <title>You Rescued Peach</title>
+    <filename>dummy_harp_lr.ry.32.brstm</filename>
+    <offset>04B601</offset>
+  </track>
+  <track>
+    <title>You Rescued Peach(Kamek)</title>
+    <filename>dummy_fanfare_lr.ry.32.brstm</filename>
+    <offset>04B5BD</offset>
+  </track>
+  <track>
+    <title>Kiss Scene</title>
+    <filename>LastBoss_Harp_lr.ry.32.brstm</filename>
+    <offset>04B711</offset>
+  </track>
+  <track>
+    <title>Results Multiplayer</title>
+    <filename>result_multi_lr.o.32.brstm</filename>
+    <offset>04BBA5</offset>
+  </track>
+  <!--This is the end of the XML-->
+</music>
+
